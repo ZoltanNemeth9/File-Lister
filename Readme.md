@@ -6,7 +6,7 @@ A `setup.sh` file futtatásával lehet az applickációt indítani.
 
 ## Endpointok
 
-- `/getUnique`: Kislistázza az összes alkönyvtárban található filenevét).
+- `/getUnique`: Kilistázza az összes alkönyvtárban található filenevét.
 - `/history`: History-t adja vissza ki kérdezete le legutoljára.
 - `/doc`: Dinamikusan generál javadoc oldalt és visszaadja azt.
 - `/doc/download`: A javadoc mappát adja vissza letölthető formában zippelve.
